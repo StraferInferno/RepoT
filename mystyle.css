@@ -1,0 +1,45 @@
+h1 {
+
+	color:#EAFF00;
+	/*text-align: center;*/
+}
+
+h2{
+	color:#2C860C;
+}
+
+body{
+
+	background-color: white;
+	text-align: justify;
+}
+
+
+
+#page {
+
+	margin: 0 auto;
+	width:1024px;
+}
+
+p{
+	font-family: Comic Sans MS;
+	color: #1F12CE;
+
+}
+
+ul#list  {
+	list-style-type:square;
+	color: red;
+}
+
+
+
+a:hover {
+	background-color: orange;
+}
+
+#m {
+	font-size: 2em;
+	color:purple;
+}
